@@ -4,7 +4,7 @@ export default function PageContainer({ title, description, children }) {
   return (
     <div className="container">
       <Head>
-        <title>{title || 'Quantum  E-commerce - Next Project'}</title>
+        <title>{title || 'Med-Bridge'}</title>
         {description !== false && (
           <meta
             name="description"

@@ -101,10 +101,10 @@ export default function HeaderDesktop({ viewer }) {
             <p>Help</p>
           </div>
           <div className="menu-dropdown">
-            <p>USD</p>
+            <p>INR</p>
           </div>
           <div className="menu-dropdown">
-            <p>Language</p>
+            <p>Language - English</p>
           </div>
         </div>
       </div>
